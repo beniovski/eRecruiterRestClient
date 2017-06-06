@@ -1,0 +1,8 @@
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\eRecruiterRestClient.exe.config
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\eRecruiterRestClient.exe
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\eRecruiterRestClient.pdb
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\RestSharp.dll
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\RestSharp.xml
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\obj\Debug\eRecruiterRestClient.exe
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\obj\Debug\eRecruiterRestClient.pdb
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\obj\Debug\eRecruiterRestClient.csprojResolveAssemblyReference.cache
