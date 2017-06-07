@@ -6,3 +6,11 @@ C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestC
 C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\obj\Debug\eRecruiterRestClient.exe
 C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\obj\Debug\eRecruiterRestClient.pdb
 C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\obj\Debug\eRecruiterRestClient.csprojResolveAssemblyReference.cache
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\Autofac.dll
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\Autofac.xml
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\Moq.dll
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\nunit.framework.dll
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\Moq.xml
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient\bin\Debug\nunit.framework.xml

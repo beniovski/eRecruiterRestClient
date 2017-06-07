@@ -18,3 +18,7 @@ C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestC
 C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient.Tests\obj\Debug\eRecruiterRestClient.Tests.csprojResolveAssemblyReference.cache
 C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient.Tests\obj\Debug\eRecruiterRestClient.Tests.dll
 C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient.Tests\obj\Debug\eRecruiterRestClient.Tests.pdb
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient.Tests\bin\Debug\Autofac.dll
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient.Tests\bin\Debug\Autofac.xml
+C:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\eRecruiterRestClient\eRecruiterRestClient.Tests\bin\Debug\Newtonsoft.Json.xml

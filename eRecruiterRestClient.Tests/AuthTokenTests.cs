@@ -1,5 +1,5 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;  
 using eRecruiterRestClient;
 
 namespace eRecruiterRestClient.Tests
@@ -16,8 +16,14 @@ namespace eRecruiterRestClient.Tests
 
         [TestMethod]
         public void check_returned_token_is_not_empty()
-        {           
-            Assert.IsNotNull(at.GetToken());        
+        {
+            Assert.IsNotNull(at.GetToken());
+        }
+
+        [TestMethod]
+        public void check_token_request_return_code_200()
+        {
+            
         }
     }
 }

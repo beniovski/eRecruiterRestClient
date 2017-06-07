@@ -1,4 +1,5 @@
 ﻿using System;
+using Autofac;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,12 +19,12 @@ namespace eRecruiterRestClient
 
         static void Main(string[] args)
         {
-
-            IAuthToken at = new AuthToken();
+            AuthToken at = new AuthToken();
+            ErecruiterAction ea = new ErecruiterAction(at);
            
             
 
-            Console.WriteLine(at.GetToken());
+            Console.WriteLine(ea.GetCompanyInfo());
 
             
 
